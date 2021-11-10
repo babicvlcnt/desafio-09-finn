@@ -90,4 +90,5 @@ button {
     left: 17.3vw;
     top: 26vh;
     border-radius: 1em;
+    text-transform: uppercase;
 }
